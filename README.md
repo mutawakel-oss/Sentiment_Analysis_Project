@@ -2,6 +2,7 @@
 I have worked as a Data Scientist for this project which uses R language and SAS tools to apply the sentiment analysis.
 # Project Objectives:
 This project aims to apply sentiment analysis for Tweeter posts related to set of restaurants.
+
 Following is a screenshot for the word cloud generated for the mentioned restaurant in R lanaguage:
 
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture14.png)
