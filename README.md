@@ -3,10 +3,14 @@ I have worked as a Data Scientist for this project which uses R language and SAS
 # Project Objectives:
 This project aims to apply sentiment analysis for Tweeter posts related to set of restaurants.
 Following is a screenshot for the word cloud generated for the mentioned restaurant in R lanaguage:
+
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture14.png)
 Following screenshot is the model in SAS Enterprise Miner:
+
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture15.png)
+
 However, following figure is for the results of the Text Rule Builder node of the second instance (80%,20%,0%), showing the good fit of the model in both Train and Validation sets of the data:
+
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture16.png)
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture18.png)
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture19.png)
@@ -24,5 +28,3 @@ All the objectives of this research were met as follows:
 2)	Second objective was to analyse the sentiments of 30 restaurant`s users via their reviews. A detailed sentiment analysis was applied for the selected 30 restaurants by using R studio and SAS Enterprise Miner tools.
 3)	Third objective was to analyse and discuss the results of applied sentiment analysis technique. A detailed discussion of the applied sentiment analysis was included in each section (R & SAS). Furthermore, section (Results Analysis and Discussion) included a discussion on the differences between the results in R and SAS.
 To sum up, all the three determined objectives of this research have been met effectively.
-
-
