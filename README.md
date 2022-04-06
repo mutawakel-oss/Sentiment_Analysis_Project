@@ -6,6 +6,7 @@ This project aims to apply sentiment analysis for Tweeter posts related to set o
 Following is a screenshot for the word cloud generated for the mentioned restaurant in R lanaguage:
 
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture14.png)
+
 Following screenshot is the model in SAS Enterprise Miner:
 
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture15.png)
