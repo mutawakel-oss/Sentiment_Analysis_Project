@@ -7,7 +7,7 @@ Following is a screenshot for the word cloud generated for the mentioned restaur
 
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture14.png)
 
-Following screenshot is the model in SAS Enterprise Miner:
+Following screenshot is the model in SAS Enterprise Miner: 
 
 ![Sample Graph](https://github.com/mutawakel-oss/Sentiment_Analysis_Project/blob/main/Picture15.png)
 
